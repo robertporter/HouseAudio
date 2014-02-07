@@ -8,5 +8,6 @@ namespace HouseAudio
 {
     class AudioSource
     {
+        String s;
     }
 }

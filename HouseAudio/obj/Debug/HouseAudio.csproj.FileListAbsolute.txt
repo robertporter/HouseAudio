@@ -3,3 +3,4 @@ c:\users\robert\HouseAudio\HouseAudio\bin\Debug\HouseAudio.exe
 c:\users\robert\HouseAudio\HouseAudio\bin\Debug\HouseAudio.pdb
 c:\users\robert\HouseAudio\HouseAudio\obj\Debug\HouseAudio.exe
 c:\users\robert\HouseAudio\HouseAudio\obj\Debug\HouseAudio.pdb
+c:\users\robert\HouseAudio\HouseAudio\obj\Debug\HouseAudio.csprojResolveAssemblyReference.cache
